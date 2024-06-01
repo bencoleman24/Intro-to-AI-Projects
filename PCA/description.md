@@ -1,0 +1,3 @@
+## PCA
+
+This project involved implementing a facial analysis program using Principal Component Analysis (PCA) on the Iris Computer Vision dataset. The tasks included loading and centering the dataset, calculating the covariance matrix, performing eigendecomposition, and projecting and reconstructing images in a lower-dimensional subspace. Key skills covered included applying PCA for dimensionality reduction, working with NumPy, SciPy, and matplotlib for data manipulation and visualization, and understanding eigenvalues and eigenvectors in the context of facial image data. The project emphasized the importance of data preprocessing, linear algebra concepts, and visualizing the results of PCA.
